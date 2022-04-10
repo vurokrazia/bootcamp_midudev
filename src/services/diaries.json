@@ -1,0 +1,26 @@
+[
+    {
+        "id": 1,
+        "date": "date",
+        "weather": "weather",
+        "visibility": "visibility"
+    },
+    {
+        "id": 2,
+        "date": "date",
+        "weather": "weather",
+        "visibility": "visibility"
+    },
+    {
+        "id": 3,
+        "date": "date",
+        "weather": "weather",
+        "visibility": "visibility"
+    },
+    {
+        "id": 4,
+        "date": "date",
+        "weather": "weather",
+        "visibility": "visibility"
+    }
+]
